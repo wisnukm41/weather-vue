@@ -1,6 +1,7 @@
 # vue-weather
 
-This template should help get you started developing with Vue 3 in Vite.
+This App is a tutorial app result from [this](https://www.youtube.com/watch?v=gUsBaB5ViAo&list=PL4cUxeGkcC9hfoy8vFQ5tbXO3vY0xhhUZ&index=1) tutorial.
+fill the required API key in the .env.example file and rename it to .env to run this project.
 
 ## Recommended IDE Setup
 
